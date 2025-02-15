@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="main">Главная</string>
+    <string name="support">Поддержка</string>
+    <string name="country">Страна</string>
+    <string name="profile">Кабинет</string>
+</resources>
