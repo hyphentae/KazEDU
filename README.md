@@ -1,1 +1,3 @@
 # KazEDU
+
+Currently WIP
